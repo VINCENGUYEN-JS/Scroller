@@ -1,7 +1,7 @@
 const esbuild = require("esbuild");
 
 const defaultConfig = {
-  entryPoints: ["src/index.js"],
+  entryPoints: ["src/index.ts"],
   bundle: true,
 };
 
